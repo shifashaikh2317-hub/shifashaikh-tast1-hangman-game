@@ -46,7 +46,7 @@ Language: Python 3
 
 Libraries used: random (built-in)
 Clone the repository:
-click here:-
+click here:-https://github.com/shifashaikh2317-hub/shifashaikh-tast1-hangman-game.git
 
 Run the game:
 
